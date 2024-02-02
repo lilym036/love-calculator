@@ -4,7 +4,7 @@ const calculateLove= () => {
     loveScore= Math.floor(loveScore) + 1;
     console.log(loveScore);
     // alert("You and your match are " + loveScore + "% compatible.");
-    alert(`You and your match are ${loveScore}% compatible.`);
+    alert(`You and your crush are ${loveScore}% compatible.`);
 }
 
 
