@@ -4,3 +4,8 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+#calculate-btn {
+    background-color: pink;
+    border: none;
+}
