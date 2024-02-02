@@ -23,8 +23,4 @@
     img {
        margin-top: 50%;
     }
-    #calculate-btn:hover {
-        border: 5px solid pink;
-        background-color: transparent;
-    }
 }
