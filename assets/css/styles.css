@@ -1,4 +1,4 @@
-body {
+.container {
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -7,5 +7,6 @@ body {
 
 #calculate-btn {
     background-color: pink;
+    color: black;
     border: none;
 }
