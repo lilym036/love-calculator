@@ -8,5 +8,23 @@
 #calculate-btn {
     background-color: pink;
     color: black;
-    border: none;
+    border: pink;
+}
+
+#calculate-btn:hover {
+    border: 5px solid pink;
+    background-color: transparent;
+}
+#disclaimer {
+    font-size: 12px;
+}
+
+@media screen and (max-width: 640px) {
+    img {
+       margin-top: 50%;
+    }
+    #calculate-btn:hover {
+        border: 5px solid pink;
+        background-color: transparent;
+    }
 }
